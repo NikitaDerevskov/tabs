@@ -1,4 +1,4 @@
-# TTT
+# tabtabtab
 
 Make tabs easily in your html.
 
@@ -62,6 +62,7 @@ tabs([
 
 ## ToDo
 
+    - [ ] rename repo according to the title
     - [ ] example project in a separate directory
     - [ ] custom styles for content 
     - [ ] short syntax support `tabs({}, {active: '#tab2'})`
