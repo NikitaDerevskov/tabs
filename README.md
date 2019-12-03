@@ -60,9 +60,13 @@ tabs([
 
 ```
 
-## ToDo
+## ToDo: Now
 
     - [ ] rename repo according to the title
     - [ ] example project in a separate directory
+    - [ ] example project: test
+
+## To Do: Some Day
+
     - [ ] custom styles for content 
     - [ ] short syntax support `tabs({}, {active: '#tab2'})`
